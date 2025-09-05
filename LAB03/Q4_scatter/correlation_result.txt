@@ -1,0 +1,4 @@
+Correlation Analysis between Mass and Fuel Consumption:
+  Correlation Coefficient: 0.9938681082455859
+  Direction: Positive correlation
+  Relationship Type: Linear relationship

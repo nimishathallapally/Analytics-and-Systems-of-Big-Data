@@ -1,0 +1,25 @@
+// S&P 500 Hierarchy
+digraph {
+	A [label="S&P 500
+$24.37T"]
+	B [label="Technology
+$8.137T"]
+	C [label="Communications Equipment
+$390.8B"]
+	D [label="Cisco Systems
+$213.7B"]
+	A -> B
+	B -> C
+	C -> D
+	A -> Services
+	A -> "Consumer Goods"
+	B -> Applications
+	B -> "Telecom Services"
+	B -> "Internet Information Providers"
+	B -> "Business Software & Services"
+	C -> Qualcomm
+	C -> "Hewlett Packard Enterprise"
+	C -> Motorola
+	B -> "Harris Corporation"
+	B -> "Juniper Networks"
+}

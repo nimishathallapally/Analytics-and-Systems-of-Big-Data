@@ -1,0 +1,8 @@
+Outlier Detection (IQR method):
+  Q1: 61.25
+  Q3: 72.75
+  IQR: 11.5
+  Lower Bound: 44.0
+  Upper Bound: 90.0
+  Outliers: [35, 25, 15, 130]
+  Number of Outliers: 4

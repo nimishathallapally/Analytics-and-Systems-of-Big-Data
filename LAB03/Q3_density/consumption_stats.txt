@@ -1,0 +1,12 @@
+Water Consumption Statistics:
+  Mean: 4.69 L
+  Median: 3.90 L
+  Mode: None L
+  Skewness: 0.62 (Right-skewed)
+
+Beverages Consumption Statistics:
+  Mean: 2.90 L
+  Median: 2.50 L
+  Mode: 2.6 L
+  Skewness: 0.95 (Right-skewed)
+
