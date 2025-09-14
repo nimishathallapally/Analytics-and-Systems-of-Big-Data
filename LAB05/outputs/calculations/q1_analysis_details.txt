@@ -1,0 +1,89 @@
+Analysis of Organic Avocados - Detailed Calculations
+==================================================
+
+Dataset Statistics:
+--------------------
+Total number of records: 18250
+Number of organic records: 9124
+Percentage of organic records: 49.99%
+
+PLU Volumes Analysis:
+--------------------
+
+PLU 4046:
+Total Volume: 66,702,877.39
+Average Volume: 7,310.71
+Maximum Volume: 361,996.84
+Minimum Volume: 0.00
+Percentage of Total: 31.80%
+
+PLU 4225:
+Total Volume: 140,603,877.57
+Average Volume: 15,410.33
+Maximum Volume: 680,037.45
+Minimum Volume: 0.00
+Percentage of Total: 67.04%
+
+PLU 4770:
+Total Volume: 2,429,040.55
+Average Volume: 266.23
+Maximum Volume: 26,765.78
+Minimum Volume: 0.00
+Percentage of Total: 1.16%
+
+Regional Distribution:
+--------------------
+Albany: 169 records (1.85%)
+Atlanta: 169 records (1.85%)
+BaltimoreWashington: 169 records (1.85%)
+Boise: 169 records (1.85%)
+Boston: 169 records (1.85%)
+BuffaloRochester: 169 records (1.85%)
+California: 169 records (1.85%)
+Charlotte: 169 records (1.85%)
+Chicago: 169 records (1.85%)
+CincinnatiDayton: 169 records (1.85%)
+Columbus: 169 records (1.85%)
+DallasFtWorth: 169 records (1.85%)
+Denver: 169 records (1.85%)
+Detroit: 169 records (1.85%)
+GrandRapids: 169 records (1.85%)
+GreatLakes: 169 records (1.85%)
+HarrisburgScranton: 169 records (1.85%)
+HartfordSpringfield: 169 records (1.85%)
+Houston: 169 records (1.85%)
+Indianapolis: 169 records (1.85%)
+Jacksonville: 169 records (1.85%)
+LasVegas: 169 records (1.85%)
+LosAngeles: 169 records (1.85%)
+Louisville: 169 records (1.85%)
+MiamiFtLauderdale: 169 records (1.85%)
+Midsouth: 169 records (1.85%)
+Nashville: 169 records (1.85%)
+NewOrleansMobile: 169 records (1.85%)
+NewYork: 169 records (1.85%)
+Northeast: 169 records (1.85%)
+NorthernNewEngland: 169 records (1.85%)
+Orlando: 169 records (1.85%)
+Philadelphia: 169 records (1.85%)
+PhoenixTucson: 169 records (1.85%)
+Pittsburgh: 169 records (1.85%)
+Plains: 169 records (1.85%)
+Portland: 169 records (1.85%)
+RaleighGreensboro: 169 records (1.85%)
+RichmondNorfolk: 169 records (1.85%)
+Roanoke: 169 records (1.85%)
+Sacramento: 169 records (1.85%)
+SanDiego: 169 records (1.85%)
+SanFrancisco: 169 records (1.85%)
+Seattle: 169 records (1.85%)
+SouthCarolina: 169 records (1.85%)
+SouthCentral: 169 records (1.85%)
+Southeast: 169 records (1.85%)
+Spokane: 169 records (1.85%)
+StLouis: 169 records (1.85%)
+Syracuse: 169 records (1.85%)
+Tampa: 169 records (1.85%)
+TotalUS: 169 records (1.85%)
+West: 169 records (1.85%)
+WestTexNewMexico: 167 records (1.83%)

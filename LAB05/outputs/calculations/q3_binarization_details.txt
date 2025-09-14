@@ -1,0 +1,13 @@
+Year Binarization Analysis
+==================================================
+
+Overall Statistics:
+--------------------
+Total records: 18250
+Year range: 2015 to 2018
+Threshold: 2016
+
+Distribution:
+--------------------
+2016 and earlier: 11231 records (61.54%)
+After 2016: 7019 records (38.46%)

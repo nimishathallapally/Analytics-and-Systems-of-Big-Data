@@ -1,0 +1,26 @@
+Trail Dataset Processing - Detailed Analysis
+==================================================
+
+Dataset Statistics:
+--------------------
+Original number of records: 202
+Number of duplicates found: 7
+Final number of records: 195
+Percentage of duplicates: 3.47%
+
+Missing Values Analysis:
+--------------------
+Original missing values in AveragePrice: 29
+Missing values after filling with 1.25: 0
+
+Price Statistics:
+--------------------
+Before processing:
+Mean price: 1.12
+Median price: 1.11
+Standard deviation: 0.11
+
+After processing:
+Mean price: 1.11
+Median price: 1.11
+Standard deviation: 0.10

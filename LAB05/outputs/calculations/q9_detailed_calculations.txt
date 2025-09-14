@@ -1,0 +1,148 @@
+Feature Selection Measures - Detailed Calculations
+==================================================
+
+Feature: Total Volume
+------------------------------
+Data Summary:
+Total samples: 18250
+Valid samples: 18250
+Missing values: 0
+Value range: 84.56 to 62505646.52
+
+Entropy Calculation:
+  Class q1: p=0.2000, -p*log2(p)=0.4644
+  Class q2: p=0.2000, -p*log2(p)=0.4644
+  Class q3: p=0.2000, -p*log2(p)=0.4644
+  Class q4: p=0.2000, -p*log2(p)=0.4644
+  Class q5: p=0.2000, -p*log2(p)=0.4644
+Total Entropy: 2.3219
+
+Gini Index Calculation:
+  Class q1: p=0.2000, p^2=0.0400
+  Class q2: p=0.2000, p^2=0.0400
+  Class q3: p=0.2000, p^2=0.0400
+  Class q4: p=0.2000, p^2=0.0400
+  Class q5: p=0.2000, p^2=0.0400
+Total Gini Index: 0.8000
+
+Information Gain Calculation:
+Parent Entropy: 1.0000
+Weighted Child Entropy: 0.3217
+Information Gain: 0.6783
+
+Feature: AveragePrice
+------------------------------
+Data Summary:
+Total samples: 18250
+Valid samples: 18202
+Missing values: 48
+Value range: 0.44 to 3.25
+
+Entropy Calculation:
+  Class q1: p=0.2089, -p*log2(p)=0.4719
+  Class q2: p=0.2005, -p*log2(p)=0.4648
+  Class q3: p=0.1918, -p*log2(p)=0.4570
+  Class q4: p=0.1998, -p*log2(p)=0.4642
+  Class q5: p=0.1989, -p*log2(p)=0.4634
+Total Entropy: 2.3214
+
+Gini Index Calculation:
+  Class q1: p=0.2089, p^2=0.0436
+  Class q2: p=0.2005, p^2=0.0402
+  Class q3: p=0.1918, p^2=0.0368
+  Class q4: p=0.1998, p^2=0.0399
+  Class q5: p=0.1989, p^2=0.0396
+Total Gini Index: 0.7999
+
+Information Gain Calculation:
+Parent Entropy: 1.0000
+Weighted Child Entropy: 0.6595
+Information Gain: 0.3405
+
+Feature: 4046
+------------------------------
+Data Summary:
+Total samples: 18250
+Valid samples: 18250
+Missing values: 0
+Value range: 0.00 to 22743616.17
+
+Entropy Calculation:
+  Class q1: p=0.2000, -p*log2(p)=0.4644
+  Class q2: p=0.2000, -p*log2(p)=0.4644
+  Class q3: p=0.2000, -p*log2(p)=0.4644
+  Class q4: p=0.2000, -p*log2(p)=0.4644
+  Class q5: p=0.2000, -p*log2(p)=0.4644
+Total Entropy: 2.3219
+
+Gini Index Calculation:
+  Class q1: p=0.2000, p^2=0.0400
+  Class q2: p=0.2000, p^2=0.0400
+  Class q3: p=0.2000, p^2=0.0400
+  Class q4: p=0.2000, p^2=0.0400
+  Class q5: p=0.2000, p^2=0.0400
+Total Gini Index: 0.8000
+
+Information Gain Calculation:
+Parent Entropy: 1.0000
+Weighted Child Entropy: 0.4740
+Information Gain: 0.5260
+
+Feature: 4225
+------------------------------
+Data Summary:
+Total samples: 18250
+Valid samples: 18250
+Missing values: 0
+Value range: 0.00 to 20470572.61
+
+Entropy Calculation:
+  Class q1: p=0.2000, -p*log2(p)=0.4644
+  Class q2: p=0.2000, -p*log2(p)=0.4644
+  Class q3: p=0.2000, -p*log2(p)=0.4644
+  Class q4: p=0.2000, -p*log2(p)=0.4644
+  Class q5: p=0.2000, -p*log2(p)=0.4644
+Total Entropy: 2.3219
+
+Gini Index Calculation:
+  Class q1: p=0.2000, p^2=0.0400
+  Class q2: p=0.2000, p^2=0.0400
+  Class q3: p=0.2000, p^2=0.0400
+  Class q4: p=0.2000, p^2=0.0400
+  Class q5: p=0.2000, p^2=0.0400
+Total Gini Index: 0.8000
+
+Information Gain Calculation:
+Parent Entropy: 1.0000
+Weighted Child Entropy: 0.4370
+Information Gain: 0.5630
+
+Feature: 4770
+------------------------------
+Data Summary:
+Total samples: 18250
+Valid samples: 18250
+Missing values: 0
+Value range: 0.00 to 2546439.11
+
+Entropy Calculation:
+  Class q1: p=0.2000, -p*log2(p)=0.4644
+  Class q2: p=0.2000, -p*log2(p)=0.4644
+  Class q3: p=0.2000, -p*log2(p)=0.4644
+  Class q4: p=0.2000, -p*log2(p)=0.4644
+  Class q5: p=0.2000, -p*log2(p)=0.4644
+Total Entropy: 2.3219
+
+Gini Index Calculation:
+  Class q1: p=0.2000, p^2=0.0400
+  Class q2: p=0.2000, p^2=0.0400
+  Class q3: p=0.2000, p^2=0.0400
+  Class q4: p=0.2000, p^2=0.0400
+  Class q5: p=0.2000, p^2=0.0400
+Total Gini Index: 0.8000
+
+Information Gain Calculation:
+Parent Entropy: 1.0000
+Weighted Child Entropy: 0.4370
+Information Gain: 0.5630
+

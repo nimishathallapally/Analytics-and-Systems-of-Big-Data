@@ -1,57 +1,148 @@
-# ASBD Course Labs
+# Analytics and Systems of Big Data (ASBD) Course Labs
 
-This repository contains lab assignments for the ASBD (Applied Statistics and Big Data) course.
+This repository contains comprehensive lab assignments for the Analytics and Systems of Big Data course, focusing on data preprocessing, analysis, and visualization techniques using Python.
 
 ## Structure
 
-The repository is organized by lab assignments:
+The repository is organized into progressive lab assignments:
 
-### LAB02
-- Data visualization exercises using various chart types (Area, Bar, Doughnut, Histogram, etc.)
-- Uses Iris dataset for analysis
-- Each question is in a separate directory with input and output folders
+### LAB02 - Data Visualization
+Comprehensive visualization techniques using the Iris dataset:
+- Area Charts with Tables
+- Bar Charts with Statistical Analysis
+- Doughnut Charts with Percentage Distribution
+- Histograms with Frequency Analysis
+- Line Charts with Trend Analysis
+- Pareto Charts with Cumulative Distribution
+- Pie Charts with Legend
+- Radar Charts with Multiple Variables
+- Scatter Plots with Correlation Analysis
 
-### LAB03
-Various statistical visualization assignments including:
-- Histogram analysis
-- Stem and leaf plots
-- Density plots
-- Scatter plots
-- Box and Swarm plots
-- Violin plots
-- Radar charts
-- Funnel charts
-- Correlation analysis
+### LAB03 - Advanced Statistical Visualization
+In-depth statistical analysis and visualization:
+1. Histogram Analysis with Variable Bin Sizes
+2. Stem-and-Leaf Plots with Data Distribution
+3. Density Estimation with Kernel Functions
+4. Scatter Plot Analysis with Regression
+5. Box and Swarm Plots for Distribution Analysis
+6. Violin Plots for Probability Density
+7. Radar Charts for Multivariate Data
+8. Funnel Charts for Process Analysis
+9. Correlation Analysis with Heatmaps
 
-### LAB04
-Data processing and analysis assignments:
-- Data normalization
-- Avocado price analysis
-- Includes modular code structure with separate source and data directories
+### LAB04 - Data Processing and Analysis
+Advanced data processing techniques:
+- Data Normalization Methods
+  - Min-Max Scaling
+  - Standard Scaling
+  - Robust Scaling
+- Avocado Price Analysis
+  - Time Series Analysis
+  - Price Prediction
+  - Market Trend Analysis
 
-## Setup
+### LAB05 - Comprehensive Data Preprocessing
+Advanced data preprocessing and feature selection:
+1. Attribute Selection with Statistical Analysis
+2. Duplicate Entry Detection and Handling
+3. Year Binarization Techniques
+4. Categorical Data Transformation
+5. One-Hot Encoding Implementation
+6. Missing Value Analysis and Treatment
+7. Nullity Analysis for Feature Selection
+8. Complete Statistical Summary
+9. Feature Selection Measures
+   - Entropy Calculation
+   - Gini Index Analysis
+   - Information Gain Assessment
+10. End-to-End Data Preprocessing Pipeline
 
-1. Make sure you have Python installed
-2. Install required packages:
-   ```bash
-   pip install pandas matplotlib seaborn numpy
-   ```
+## Setup and Requirements
+
+### Prerequisites
+- Python 3.x
+- pip package manager
+
+### Required Libraries
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+
+## Project Structure
+
+```
+LAB0X/
+├── scripts/
+│   ├── utils.py            # Common utilities
+│   ├── q1_analysis.py      # Question-specific scripts
+│   ├── q2_analysis.py
+│   └── ...
+├── data/
+│   ├── Iris.csv
+│   ├── avocado.csv
+│   └── Trail.csv
+├── outputs/
+│   ├── plots/             # Generated visualizations
+│   ├── tables/            # Analysis results
+│   └── calculations/      # Detailed computation logs
+└── README.md
+```
 
 ## Running the Code
 
-Each lab assignment contains separate Python scripts that can be run independently. Navigate to the specific lab directory and run the Python scripts:
+### Individual Scripts
+Each lab contains modular Python scripts that can be run independently:
 
 ```bash
-python script_name.py
+cd LAB05/scripts
+python q1_attribute_selection.py
 ```
 
-## Directory Structure
+### Full Lab Execution
+To run all questions in a lab:
 
-- Each lab has its own directory
-- Input data is stored in `input/` or `data/` directories
-- Output files (plots, tables) are saved in `output/` directories
-- Source code is organized in modular structure where applicable
+```bash
+cd LAB05
+python run_all.py
+```
 
-## Output
+## Output and Documentation
 
-The scripts generate various visualizations and analysis results that are saved in the respective output directories.
+### Generated Files
+- Visualizations (PNG format)
+- Data tables (CSV format)
+- Detailed calculations (TXT format)
+- Statistical analysis reports
+
+### Documentation
+Each script includes:
+- Comprehensive comments
+- Function documentation
+- Implementation details
+- Analysis methodology
+
+## Features
+
+### Data Processing
+- Robust error handling
+- Missing value treatment
+- Data type validation
+- Outlier detection
+
+### Visualization
+- Publication-ready plots
+- Multiple chart types
+- Customizable styles
+- Statistical annotations
+
+### Analysis
+- Feature selection metrics
+- Statistical measures
+- Data quality assessment
+- Correlation analysis
+
+## Author
+Nimisha Thallapally
+
+## License
+This project is licensed under the MIT License

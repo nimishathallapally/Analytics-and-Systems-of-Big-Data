@@ -1,0 +1,3 @@
+Stage,Number of Records,Average Price,Missing Values
+Original,202,1.0939884393063584,29
+After removing duplicates,195,1.1134871794871795,0

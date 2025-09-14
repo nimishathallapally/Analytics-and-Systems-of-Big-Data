@@ -1,0 +1,9 @@
+Original Shape:
+(18250, 13)
+
+Cleaned Shape:
+(18249, 13)
+
+Selected Features (Avocado):
+['AveragePrice', 'Total Volume', '4046', '4225', 'Small Bags']
+
